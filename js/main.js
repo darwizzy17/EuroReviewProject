@@ -395,116 +395,15 @@ const QUIZ_DATA = {
         "Establish the United Nations"
       ],
       answer: 1
-     {
-        q: "Which alliance system contributed to the escalation of a local conflict into World War I?",
-        options: [
-          "The League of Nations",
-          "The Triple Entente and Triple Alliance",
-          "NATO and the Warsaw Pact",
-          "The United Nations coalition"
-        ],
-        answer: 1
-      },
-      {
-        q: "What role did nationalism play in the outbreak of WWI?",
-        options: [
-          "It promoted cooperation between European nations",
-          "It reduced tensions in the Balkans",
-          "It intensified ethnic conflicts and rivalries, especially in the Balkans",
-          "It led to the creation of international peace organizations"
-        ],
-        answer: 2
-      },
-      {
-        q: "Which new technology was first introduced during WWI and changed warfare significantly?",
-        options: [
-          "Nuclear weapons",
-          "Tanks and poison gas",
-          "Radar systems",
-          "Aircraft carriers"
-        ],
-        answer: 1
-      },
-      {
-        q: "What was a major consequence of the Treaty of Versailles on Germany?",
-        options: [
-          "It strengthened Germany's economy",
-          "It created long-term resentment and economic hardship",
-          "It expanded German territory",
-          "It allowed Germany to dominate Europe"
-        ],
-        answer: 1
-      },
-      {
-        q: "Which factor most contributed to the rise of authoritarian regimes in the interwar period?",
-        options: [
-          "Strong democratic institutions",
-          "Economic instability and the Great Depression",
-          "International cooperation through the League of Nations",
-          "Rapid technological innovation"
-        ],
-        answer: 1
-      },
-      {
-        q: "What was the primary goal of Hitler’s policy of expansion before WWII?",
-        options: [
-          "To establish global trade networks",
-          "To regain lost territories and expand German living space (Lebensraum)",
-          "To strengthen the League of Nations",
-          "To create alliances with Western democracies"
-        ],
-        answer: 1
-      },
-      {
-        q: "Why was D-Day (June 6, 1944) significant?",
-        options: [
-          "It marked the end of WWII",
-          "It began the Allied liberation of Western Europe",
-          "It was the first use of nuclear weapons",
-          "It ended the war in the Pacific"
-        ],
-        answer: 1
-      },
-      {
-        q: "What was the main objective of the Holocaust?",
-        options: [
-          "To relocate populations during the war",
-          "To systematically eliminate Jews and other targeted groups",
-          "To establish labor camps for economic production",
-          "To promote Nazi ideology through education"
-        ],
-        answer: 1
-      },
-      {
-        q: "What was the main difference between NATO and the Warsaw Pact?",
-        options: [
-          "NATO was economic, Warsaw Pact was political",
-          "NATO was Western, Warsaw Pact was Soviet-led Eastern alliance",
-          "NATO focused on trade, Warsaw Pact on military",
-          "There was no difference"
-        ],
-        answer: 1
-      },
-      {
-        q: "What was the significance of the Berlin Wall during the Cold War?",
-        options: [
-          "It united East and West Berlin",
-          "It symbolized the division between communist and democratic Europe",
-          "It was built to defend against invasion",
-          "It marked the end of the Cold War"
-        ],
-        answer: 1
-      },
-      {
-        q: "Which art movement directly rejected traditional logic and embraced absurdity in response to WWI?",
-        options: [
-          "Cubism",
-          "Expressionism",
-          "Dada",
-          "Surrealism"
-        ],
-        answer: 2
-      }
+    },
+    {
+      q: "Which alliance system contributed to the escalation of a local conflict into World War I?",
+      options: [
+        "The League of Nations",
+        "The Triple Entente and Triple Alliance",
+        "NATO and the Warsaw Pact",
+        "The United Nations coalition"
+      ],
     }
   ]
 };
