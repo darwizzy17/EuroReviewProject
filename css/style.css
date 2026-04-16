@@ -75,10 +75,19 @@ code {
 .hidden { display: none !important; }
 
 /* ---- PROGRESS BAR ---- */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 4px;
+  background: var(--ink);
+  z-index: 9998;
+}
+
 #progress-bar {
   position: fixed;
   top: 0; left: 0;
-  height: 3px;
+  height: 4px;
   width: 0%;
   background: var(--red);
   z-index: 9999;
